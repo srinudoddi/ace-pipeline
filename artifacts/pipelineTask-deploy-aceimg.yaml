@@ -24,7 +24,7 @@ spec:
       default: "false"
       description: enable tracing
     - name: ace_version
-      default: 11.0.0.10-r1
+      default: 11.0.0-eus
       description: fully qualified ace version
   resources:
     inputs:
